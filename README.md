@@ -23,6 +23,7 @@ Full-stack developer based in Cairo, Egypt. I build production web applications 
 | [PharmaUnique](https://github.com/atarek993/pharmaunique-showcase) | Arabic/English online store for pharmacy, personal care and beauty products, with wholesale accounts - [pharmaunique.com](https://pharmaunique.com) |
 | [EGMED](https://github.com/atarek993/egmed-showcase) | Corporate website for a medical device company - [egmed.com](https://egmed.com) |
 | [The Way Restaurant](https://github.com/atarek993/the-way-showcase) | Restaurant website - [res.thewayeg.com](https://res.thewayeg.com) |
+| [Taaloq](https://github.com/atarek993/taaloq-showcase) | Arabic website for a stretch ceiling design and installation company - [taaloqceiling.com](https://taaloqceiling.com) |
 
 These projects are built for clients, so their source code is private. Each link above is a showcase page with an overview of what I built.
 
