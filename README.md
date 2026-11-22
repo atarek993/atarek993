@@ -34,3 +34,5 @@ Full-stack developer at **Ok Media Solutions**, shipping production apps with Re
 ## Get in touch
 
 - Portfolio: [ahmedtarekdev.vercel.app](https://ahmedtarekdev.vercel.app)
+- Email: [ahmed.hagras992@gmail.com](mailto:ahmed.hagras992@gmail.com)
+- LinkedIn: [linkedin.com/in/ahmed-tarek-b05b03233](https://linkedin.com/in/ahmed-tarek-b05b03233)
